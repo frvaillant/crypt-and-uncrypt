@@ -18,7 +18,7 @@ class Crypto
     /**
      * @const
      */
-    const PRIVATE_KEY = 'LaNuitEstSiJolieEnRoseEtBleu!Non?';
+    const PRIVATE_KEY = 'place your key here';
 
 
     /**
