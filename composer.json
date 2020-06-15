@@ -1,0 +1,22 @@
+{
+    "name": "francois/chiffrement",
+    "description": "encrypt and decrypt strings",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "Sjon Hortensius",
+            "email" : "root@3v4l.org"
+        },
+        {
+            "name": "francoisvaillant",
+            "email": "frvaillant@gmail.com"
+        }
+    ],
+
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

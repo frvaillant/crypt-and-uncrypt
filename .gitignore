@@ -1,0 +1,9 @@
+vendor
+/vendor/
+.DS_Store
+/.DS_Store/
+###> jetbrain/phpstorm ###
+/.idea/
+###< jetbrain/phpstorm ###
+public
+/public/
