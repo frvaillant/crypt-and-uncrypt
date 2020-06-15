@@ -1,7 +1,7 @@
 <?php
 namespace App;
 
-use App\CryptoMaker;
+use App\CryptoSafer;
 
 /**
  * Class Crypto
